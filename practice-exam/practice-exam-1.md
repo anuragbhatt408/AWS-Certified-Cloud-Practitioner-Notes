@@ -57,7 +57,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A
     </details>
 
-6. You have set up consolidated billing for several AWS accounts. One of the accounts has purchased a number of reserved instances for 3 years. Which of the following is true regarding this scenario?
+6. ## You have set up consolidated billing for several AWS accounts. One of the accounts has purchased a number of reserved instances for 3 years. Which of the following is true regarding this scenario?
     - A. The Reserved Instance discounts can only be shared with the master account.
     - B. All accounts can receive the hourly cost benefit of the Reserved Instances.
     - C. The purchased instances will have better performance than On-demand instances.
