@@ -66,7 +66,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A
     </details>
 
-7. A company has moved to AWS recently. Which of the following AWS Services will help ensure that they have the proper security settings? (Choose TWO)
+7. ## A company has moved to AWS recently. Which of the following AWS Services will help ensure that they have the proper security settings? (Choose TWO)
     - A. AWS Trusted Advisor.
     - B. Amazon Inspector.
     - C. Amazon SNS.
@@ -87,7 +87,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-9. A company is introducing a new product to their customers, and is expecting a surge in traffic to their web application. As part of their Enterprise Support plan, which of the following provides the company with architectural and scaling guidance?
+9. ## A company is introducing a new product to their customers, and is expecting a surge in traffic to their web application. As part of their Enterprise Support plan, which of the following provides the company with architectural and scaling guidance?
     - A. AWS Knowledge Center.
     - B. AWS Health Dashboard.
     - C. Infrastructure Event Management.
@@ -158,7 +158,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-16. According to the AWS Shared responsibility model, which of the following are the responsibility of the customer? (Choose TWO)
+16. ## According to the AWS Shared responsibility model, which of the following are the responsibility of the customer? (Choose TWO)
     - A. Managing environmental events of AWS data centers.
     - B. Protecting the confidentiality of data in transit in Amazon S3.
     - C. Controlling physical access to AWS Regions.
@@ -220,7 +220,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C
     </details>
 
-22. Which of the following EC2 instance purchasing options supports the Bring Your Own License (BYOL) model for almost every BYOL scenario?
+22. ## Which of the following EC2 instance purchasing options supports the Bring Your Own License (BYOL) model for almost every BYOL scenario?
     - A. Dedicated Instances.
     - B. Dedicated Hosts.
     - C. On-demand Instances.
@@ -271,7 +271,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: B
     </details>
 
-27. Which of the following services can help protect your web applications from SQL injection and other vulnerabilities in your application code?
+27. ## Which of the following services can help protect your web applications from SQL injection and other vulnerabilities in your application code?
     - A. Amazon Cognito.
     - B. AWS IAM.
     - C. Amazon Aurora.
@@ -322,7 +322,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C
     </details>
 
-32. In your on-premises environment, you can create as many virtual servers as you need from a single template. What can you use to perform the same in AWS?
+32. ## In your on-premises environment, you can create as many virtual servers as you need from a single template. What can you use to perform the same in AWS?
     - A. IAM.
     - B. An internet gateway.
     - C. EBS Snapshot.
@@ -332,7 +332,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-33. What are two advantages of using Cloud Computing over using traditional data centers? (Choose TWO)
+33. ## What are two advantages of using Cloud Computing over using traditional data centers? (Choose TWO)
     - A. Reserved Compute capacity.
     - B. Eliminating Single Points of Failure (SPOFs).
     - C. Distributed infrastructure.
@@ -354,7 +354,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D, E
     </details>
 
-35. Which statement best describes the operational excellence pillar of the AWS Well-Architected Framework?
+35. ## Which statement best describes the operational excellence pillar of the AWS Well-Architected Framework?
     - A. The ability of a system to recover gracefully from failure.
     - B. The efficient use of computing resources to meet requirements.
     - C. The ability to monitor systems and improve supporting processes and procedures.
@@ -364,7 +364,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C
     </details>
 
-36. AWS has created a large number of Edge Locations as part of its Global Infrastructure. Which of the following is NOT a benefit of using Edge Locations?
+36. ## AWS has created a large number of Edge Locations as part of its Global Infrastructure. Which of the following is NOT a benefit of using Edge Locations?
     - A. Edge locations are used by CloudFront to cache the most recent responses.
     - B. Edge locations are used by CloudFront to improve your end users’ experience when uploading files.
     - C. Edge locations are used by CloudFront to distribute traffic across multiple instances to reduce latency.
@@ -374,7 +374,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C
     </details>
 
-37. What are the change management tools that helps AWS customers audit and monitor all resource changes in their AWS environment? (Choose TWO)
+37. ## What are the change management tools that helps AWS customers audit and monitor all resource changes in their AWS environment? (Choose TWO)
     - A. AWS CloudTrail.
     - B. Amazon Comprehend.
     - C. AWS Transit Gateway.
@@ -456,7 +456,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C
     </details>
 
-45. Which AWS services can be used to improve the performance of a global application and reduce latency for its users? (Choose TWO)
+45. ## Which AWS services can be used to improve the performance of a global application and reduce latency for its users? (Choose TWO)
     - A. AWS KMS.
     - B. AWS Global accelerator.
     - C. AWS Direct Connect.
@@ -488,7 +488,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C
     </details>
 
-48. A company has created a solution that helps AWS customers improve their architectures on AWS. Which AWS program may support this company?
+48. ## A company has created a solution that helps AWS customers improve their architectures on AWS. Which AWS program may support this company?
     - A. APN Consulting Partners.
     - B. AWS TAM.
     - C. APN Technology Partners.
