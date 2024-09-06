@@ -212,7 +212,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D, E
     </details>
 
-21. A company has business critical workloads hosted on AWS and they are unwilling to accept any downtime. Which of the following is a recommended best practice to protect their workloads in the event of an unexpected natural disaster?
+21. ## A company has business critical workloads hosted on AWS and they are unwilling to accept any downtime. Which of the following is a recommended best practice to protect their workloads in the event of an unexpected natural disaster?
     - A. Replicate data across multiple Edge Locations worldwide and use Amazon CloudFront to perform automatic failover in the event of an outage.
     - B. Deploy AWS resources across multiple Availability Zones within the same AWS Region.
     - C. Create point-in-time backups in another subnet and recover this data when a disaster occurs.
@@ -222,7 +222,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-22. Which statement is correct with regards to AWS service limits? (Choose TWO)
+22. ## Which statement is correct with regards to AWS service limits? (Choose TWO)
     - A. You can contact AWS support to increase the service limits.
     - B. Each IAM user has the same service limit.
     - C. There are no service limits on AWS.
@@ -233,7 +233,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A, D
     </details>
 
-23. What is the AWS tool that enables you to use scripts to manage all AWS services and resources?
+23. ## What is the AWS tool that enables you to use scripts to manage all AWS services and resources?
     - A. AWS Console.
     - B. AWS Service Catalog.
     - C. AWS OpsWorks.
@@ -326,7 +326,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A, B
     </details>
 
-32. A customer spent a lot of time configuring a newly deployed Amazon EC2 instance. After the workload increases, the customer decides to provision another EC2 instance with an identical configuration. How can the customer achieve this?
+32. ## A customer spent a lot of time configuring a newly deployed Amazon EC2 instance. After the workload increases, the customer decides to provision another EC2 instance with an identical configuration. How can the customer achieve this?
     - A. By creating an AWS Config template from the old instance and launching a new instance from it.
     - B. By creating an EBS Snapshot of the old instance.
     - C. By installing Aurora on EC2 and launching a new instance from it.
@@ -336,7 +336,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-33. A company uses AWS Organizations to manage all of its AWS accounts. Which of the following allows the company to restrict what services and actions are allowed in each individual account?
+33. ## A company uses AWS Organizations to manage all of its AWS accounts. Which of the following allows the company to restrict what services and actions are allowed in each individual account?
     - A. IAM Principals.
     - B. AWS Service Control Policies (SCPs).
     - C. IAM policies.
@@ -346,7 +346,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: B
     </details>
 
-34. Which of the following statements describes the AWS Cloud’s agility?
+34. ## Which of the following statements describes the AWS Cloud’s agility?
     - A. AWS allows you to host your applications in multiple regions around the world.
     - B. AWS provides customizable hardware at the lowest possible cost.
     - C. AWS allows you to provision resources in minutes.
@@ -367,7 +367,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A, C
     </details>
 
-36. What is the connectivity option that uses Internet Protocol Security (IPSec) to establish encrypted connectivity between an on-premises network and the AWS Cloud?
+36. ## What is the connectivity option that uses Internet Protocol Security (IPSec) to establish encrypted connectivity between an on-premises network and the AWS Cloud?
     - A. Internet Gateway.
     - B. AWS IQ.
     - C. AWS Direct Connect.
@@ -377,7 +377,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-37. What is the minimum level of AWS support that provides 24x7 access to technical support engineers via phone and chat?
+37. ## What is the minimum level of AWS support that provides 24x7 access to technical support engineers via phone and chat?
     - A. Enterprise Support.
     - B. Developer Support.
     - C. Basic Support.
@@ -459,7 +459,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A
     </details>
 
-45. A company has hundreds of VPCs in multiple AWS Regions worldwide. What service does AWS offer to simplify the connection management among the VPCs?
+45. ## A company has hundreds of VPCs in multiple AWS Regions worldwide. What service does AWS offer to simplify the connection management among the VPCs?
     - A. VPC Peering.
     - B. AWS Transit Gateway.
     - C. Amazon Connect.
