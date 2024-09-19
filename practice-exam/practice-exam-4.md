@@ -6,7 +6,7 @@ If this practice exam has been helpful to you please share it with others and re
 
 ---
 
-1. A developer needs to set up an SSL security certificate for a client's eCommerce website in order to use the HTTPS protocol. Which of the following AWS services can be used to deploy the required SSL server certificates? (Choose TWO)
+1. ## A developer needs to set up an SSL security certificate for a client's eCommerce website in order to use the HTTPS protocol. Which of the following AWS services can be used to deploy the required SSL server certificates? (Choose TWO)
     - A. Amazon Route 53.
     - B. AWS ACM.
     - C. AWS Directory Service.
@@ -17,7 +17,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A, B
     </details>
 
-2. Which of the following AWS services scale automatically without your intervention? (Choose TWO)
+2. ##  Which of the following AWS services scale automatically without your intervention? (Choose TWO)
     - A. Amazon EC2.
     - B. Amazon S3.
     - C. AWS Lambda.
@@ -28,7 +28,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: B, C
     </details>
 
-3. A company is planning to migrate an application from Amazon EC2 to AWS Lambda to use a serverless architecture. Which of the following will be the responsibility of AWS after migration? (Choose TWO)
+3. ## A company is planning to migrate an application from Amazon EC2 to AWS Lambda to use a serverless architecture. Which of the following will be the responsibility of AWS after migration? (Choose TWO)
     - A. Application management.
     - B. Capacity management.
     - C. Access control.
@@ -49,7 +49,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-5. A company needs to migrate their website from on-premises to AWS. Security is a major concern for them, so they need to host their website on hardware that is NOT shared with other AWS customers. Which of the following EC2 instance options meets this requirement?
+5. ## A company needs to migrate their website from on-premises to AWS. Security is a major concern for them, so they need to host their website on hardware that is NOT shared with other AWS customers. Which of the following EC2 instance options meets this requirement?
     - A. On-demand instances.
     - B. Spot instances.
     - C. Dedicated instances.
@@ -89,7 +89,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C
     </details>
 
-9. Which support plan includes AWS Support Concierge Service?
+9. ## Which support plan includes AWS Support Concierge Service?
     - A. Premium Support.
     - B. Business Support.
     - C. Enterprise Support.
@@ -161,7 +161,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-16. A company is planning to migrate a database with high read/write activity to AWS. What is the best storage option to use?
+16. ## A company is planning to migrate a database with high read/write activity to AWS. What is the best storage option to use?
     - A. AWS Storage Gateway.
     - B. Amazon S3.
     - C. Amazon EBS.
@@ -212,17 +212,18 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C, D
     </details>
 
-21. Which of the following AWS Services helps with planning application migration to the AWS Cloud?
+21. ## Which of the following AWS Services helps with planning application migration to the AWS Cloud?
     - A. AWS Snowball Migration Service.
     - B. AWS Application Discovery Service.
     - C. AWS DMS.
     - D. AWS Migration Hub.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B 
+      (DMS-> DB migration service, migration hub-> monitor migration)
     </details>
 
-22. A company is trying to analyze the costs applied to their AWS account recently. Which of the following provides them the most granular data about their AWS costs and usage?
+22. ## A company is trying to analyze the costs applied to their AWS account recently. Which of the following provides them the most granular data about their AWS costs and usage?
     - A. Amazon Machine Image.
     - B. AWS Cost Explorer.
     - C. AWS Cost & Usage Report.
@@ -263,7 +264,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C, D
     </details>
 
-26. What are the benefits of implementing a tagging strategy for AWS resources? (Choose TWO)
+26. ## What are the benefits of implementing a tagging strategy for AWS resources? (Choose TWO)
     - A. Quickly identify resources that belong to a specific project.
     - B. Quickly identify software solutions on AWS.
     - C. Track API calls in your AWS account.
@@ -421,7 +422,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A, C
     </details>
 
-41. As part of the AWS Migration Acceleration Program (MAP), what does AWS provide to accelerate Enterprise adoption of AWS? (Choose TWO)
+41. ## As part of the AWS Migration Acceleration Program (MAP), what does AWS provide to accelerate Enterprise adoption of AWS? (Choose TWO)
     - A. AWS Partners.
     - B. AWS Artifact.
     - C. AWS Professional Services.
@@ -432,7 +433,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A, C
     </details>
 
-42. AWS recommends some practices to help organizations avoid unexpected charges on their bill. Which of the following is NOT one of these practices?
+42. ## AWS recommends some practices to help organizations avoid unexpected charges on their bill. Which of the following is NOT one of these practices?
     - A. Deleting unused EBS volumes after terminating an EC2instance.
     - B. Deleting unused AutoScaling launch configuration.
     - C. Deleting unused Elastic Load Balancers.
@@ -442,7 +443,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: B
     </details>
 
-43. What is the AWS tool that can help a company visualize their AWS spending in the last few months?
+43. ## What is the AWS tool that can help a company visualize their AWS spending in the last few months?
     - A. AWS Cost Explorer.
     - B. AWS Pricing Calculator.
     - C. AWS Budgets.
@@ -494,7 +495,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C
     </details>
 
-48. Which AWS Group assists customers in achieving their desired business outcomes?
+48. ## Which AWS Group assists customers in achieving their desired business outcomes?
     - A. AWS Security Team.
     - B. AWS Professional Services.
     - C. AWS Trusted Advisor.
@@ -504,14 +505,14 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: B
     </details>
 
-49. Which AWS service or feature is used to manage the keys used to encrypt customer data?
+49. ## Which AWS service or feature is used to manage the keys used to encrypt customer data?
     - A. AWS KMS.
     - B. AWS Service Control Policies (SCPs).
     - C. Multi-Factor Authentication (MFA).
     - D. Amazon Macie.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: A ( Amazon Macie is a fully managed data security and data privacy service that uses machine learning and pattern matching to discover and protect your sensitive data in AWS. )
     </details>
 
 50. Which AWS Service allows customers to download AWS SOC & PCI reports?
